@@ -1,0 +1,19 @@
+49152 nop nop nop nop nop nop nop A(0)c
+49153 nop nop nop nop nop nop nop A(0)v
+49154 nop nop nop nop nop nop nop A(0)z
+49155 nop nop nop nop nop nop nop A(0)s
+49156 ---
+49157 nop nop nop nop nop nop nop A(1)c
+49158 nop nop nop nop nop nop nop A(1)v
+49159 nop nop nop nop nop nop nop A(1)z
+49160 nop nop nop nop nop nop nop A(1)s
+49161 --
+49162 nop nop nop nop nop nop nop nop
+49163 --pop pc
+49164 --pop pc flags
+49165 nop nop nop nop nop nop nop nop nop nop nop nop
+49166 --nop nop nop nop nop nop nop nop
+49167 PdSP nop SBUS PdALU PmADR PdPC nop DBUS PdALU PmMem
+49168 PdSP nop SBUS PdALU PmADR PdMem nop nop nop PmPC
+49169 PdSP nop SBUS PdALU PmADR PdFlag nop nop nop PmMem
+49170 PdSP nop SBUS PdALU PmADR PdMem nop nop nop PmFlag

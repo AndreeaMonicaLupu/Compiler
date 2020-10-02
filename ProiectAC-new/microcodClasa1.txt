@@ -1,0 +1,7 @@
+0 PdA none SBUS PdALU PmA nop nop nop nop nop 0 0000 
+1 PdA PdM SUM PdALU PmA PdCOND nop nop nop nop 0 0000 
+2 PdA PdnotM SUM PdALU PmA PdCOND nop nop nop nop 0 0000 
+3 PdA PdnotM SUM PdALU none PdCOND nop nop nop nop 0 0000 
+4 PdA PdM AND PdALU PmA PdCOND nop nop nop nop 0 0000 
+5 PdA PdM OR PdALU PmA PdCOND nop nop nop nop 0 0000 
+6 PdA PdM XOR PdALU PmA PdCOND nop nop nop nop 0 0000 
